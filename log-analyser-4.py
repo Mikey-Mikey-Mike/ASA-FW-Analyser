@@ -1,6 +1,7 @@
 """
 APP     : ASA FIREWALL LOG ANALYSER
-CREATER : Mike Gannon   mjpgannon@aol.com
+CREATER : Mike Gannon
+AT : https://github.com/Mikey-Mikey-Mike/ASA-FW-Analyser/edit/main/log-analyser-4.py
 DESCRIPTION : This application will read all of the log files in a folder and sub folders.
 import the logs into a pandas table and then summarise the instances of traffic flows found in
 the folder
